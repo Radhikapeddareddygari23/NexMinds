@@ -1,0 +1,21 @@
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Node & Python
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Logs
+*.log
